@@ -212,6 +212,9 @@ footer {
 .our-team .team-title a:hover{
     color:#333;
     text-decoration: none;
+    color: #ffee10;
+
+   text-shadow: 0 0 5px #ffee10;
 }
 .our-team .team-title > small{
     font-size: 16px;
@@ -283,7 +286,7 @@ footer {
 .tabs , .btn{
     margin-left: 10px;
     margin: 5px; 
-   
+
     font-family: 'Kanit', sans-serif;
     font-weight: 300;
     letter-spacing: 1px;
@@ -312,6 +315,7 @@ footer {
   
   .btn:hover {
     background-color: var(--themeColor);
+
   }
   
   .btn.active {
