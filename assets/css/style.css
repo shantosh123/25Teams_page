@@ -423,3 +423,11 @@ footer {
 .tabs{
     margin-left: 45px;
 }
+
+@media (min-width: 1600px) and (max-width: 20000px) {
+    .tabs{
+        margin-left: 200px;
+       
+     
+    }
+}
